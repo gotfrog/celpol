@@ -30,6 +30,7 @@ This has been shown to be an effective treatment again and again and again:
     - (WPATH 8)[https://www.tandfonline.com/doi/epdf/10.1080/26895269.2022.2100644?needAccess=true]
     - (American Academy of Pediatrics)[https://publications.aap.org/pediatrics/article/142/4/e20182162/37381/Ensuring-Comprehensive-Care-and-Support-for?autologincheck=redirected]
     - A large List of orgs who recommend gender affirming care via sex trait modification (here)[https://transhealthproject.org/resources/medical-organization-statements/]
+6) More rejection of the Cass Review [https://www.erininthemorning.com/p/another-international-medical-org] 
 
 
 ### Second Question:
@@ -39,10 +40,14 @@ This has been shown to be an effective treatment again and again and again:
 > explicit exceptions to permit the coverage of such items and services as EHB for other medical
 > conditions, and what those conditions are, for potential inclusion in finalizing as part of this rule.
 
+We should not be defining exceptions that would be used to discriminate against trans kids
+
 ### Third Question:
 > we seek comment on whether additional program integrity measures are necessary to
 > ensure Federal subsidies do not continue to fund sex-trait modification if this proposal is
 > finalized.
+
+No we need this care. 
 
 ## Why I am asking you to do this: 
 Relevant to what we can do, when Ohio proposed a similar set of laws, they were defeated via the comment period. You can do the same here. 
@@ -54,3 +59,19 @@ You can find a link to it [here](https://www.federalregister.gov/public-inspecti
 and the pdf of the proposal  [here](https://public-inspection.federalregister.gov/2025-04083.pdf)
 
 for what it is worth, there are a ton of other terrible things in here. Lots of attacks on immigrant communities and a proposal to shorten the enrollment period for healthcare plans.
+
+
+## An often missed part of the problem. 
+In Trumps executive order [Protecting Children from Chemical And Surgical Mutilation ](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/) there is an often missed directive. Nearly every news organization has ignored this directive and its sad, because this may be one of the most consequential portion of the order, which has directly lead to this policy proposal. Section 3 disavows the US from the WPATH 8 standards of care and cites discredited theories such as *social contagion theory*
+
+> Sec. 3.  Ending Reliance on Junk Science.
+>
+> (a)  The blatant harm done to children by chemical and surgical mutilation cloaks itself in medical necessity, spurred by guidance from the World Professional Association for Transgender Health (WPATH), which lacks scientific integrity.  In light of  the scientific concerns with the WPATH guidance:
+>
+> <p>(i)   agencies shall rescind or amend all policies that rely on WPATH guidance, including WPATH’s “Standards of Care Version 8”; and </p>
+>
+>  <p>(ii)  within 90 days of the date of this order, the Secretary of Health and Human Services (HHS) shall publish a review of the existing literature on best practices for promoting the health of children who assert gender dysphoria, rapid-onset gender dysphoria, or other identity-based confusion.</p>
+>
+>  (b)  The Secretary of HHS, as appropriate and consistent with applicable law, shall use all available methods to increase the quality of data to guide practices for improving the health of minors with gender dysphoria, rapid-onset gender dysphoria, or other identity-based confusion, or who otherwise seek chemical or surgical mutilation.
+
+[https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/]
