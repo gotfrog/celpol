@@ -21,15 +21,15 @@ They are seeking comments on several things.
 
 This has been shown to be an effective treatment again and again and again:
 1) (Joint study by Germany, Austria, and Swizerland *not in english*)[https://register.awmf.org/de/leitlinien/detail/028-014]
-  - Erin In the Morn (article)[https://www.erininthemorning.com/p/new-german-swiss-and-austria-guidelines]
+    - Erin In the Morn (article)[https://www.erininthemorning.com/p/new-german-swiss-and-austria-guidelines]
 2) French Guidelines (here)[https://www.erininthemorning.com/p/new-french-guidelines-recommend-trans?utm_source=publication-search]
-  - The actual (Study)[https://www.sciencedirect.com/science/article/pii/S0929693X24001763#tbl0001] 
+    - The actual (Study)[https://www.sciencedirect.com/science/article/pii/S0929693X24001763#tbl0001] 
 3) Criticisms of care are often put forth by hate groups (see here)[https://www.erininthemorning.com/p/nhs-trans-care-officials-speak-at]
 4) or just flat out (incorrect)[https://www.cbc.ca/news/health/puberty-blockers-review-1.7172920]
 5) This care is well founded
-  - (WPATH 8)[https://www.tandfonline.com/doi/epdf/10.1080/26895269.2022.2100644?needAccess=true]
-  - (American Academy of Pediatrics)[https://publications.aap.org/pediatrics/article/142/4/e20182162/37381/Ensuring-Comprehensive-Care-and-Support-for?autologincheck=redirected]
-  - A large List of orgs who recommend gender affirming care via sex trait modification (here)[https://transhealthproject.org/resources/medical-organization-statements/]
+    - (WPATH 8)[https://www.tandfonline.com/doi/epdf/10.1080/26895269.2022.2100644?needAccess=true]
+    - (American Academy of Pediatrics)[https://publications.aap.org/pediatrics/article/142/4/e20182162/37381/Ensuring-Comprehensive-Care-and-Support-for?autologincheck=redirected]
+    - A large List of orgs who recommend gender affirming care via sex trait modification (here)[https://transhealthproject.org/resources/medical-organization-statements/]
 
 
 ### Second Question:
