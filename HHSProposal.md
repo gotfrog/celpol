@@ -1,5 +1,5 @@
 # Context:
-*This is a rough draft. Feel free to fork and add to it and send a pull request to me *
+*This is a rough draft. Feel free to fork and add to it and send a pull request to me*
 
 
 Government agencies are tasked with the rules making process when congress makes laws. Congress doesn't have the expertise nor the time to make the specific rules for thing. When an agency proposed a rule change they have to have a period in which they seek public comment on the proposed rule change. Health and Human Services (HHS) has put out a new set of proposed rules relating to the affordable care act, what it is required to cover and what it considers "Essential health benefits" aka EHB. As required by Donald Trumps extreme Executive orders regarding trans folks a new series of rules has been proposed. 
